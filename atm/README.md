@@ -1,4 +1,4 @@
-This project is aimed at completing the task for EON Reality's AVR Course. As part of our "homework" we were tasked to create an ATM machine using JavaScript by James Canada. My take on the task was to create a React based application simulating an actual ATM.
+This project is aimed at completing the task for EON Reality's AVR Course. As part of our "homework" we were tasked to create an ATM machine using JavaScript by Alistair Mountain. My take on the task was to create a React based application simulating an actual ATM.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
