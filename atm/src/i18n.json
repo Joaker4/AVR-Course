@@ -1,0 +1,114 @@
+{
+    "en": {
+        "inputs": {
+            "selectPin": "Enter Pin",
+            "selectedCurrentPin": "Enter Current Pin",
+            "selectedNewPin": "Enter New Pin",
+            "enterAmount": "Enter Amount",
+            "loginNoCard": "Input First Name"
+        },
+        "buttons": {
+            "checkBalance": "Check Balance",
+            "withdrawCash": "Withdraw Cash",
+            "changePin": "Change Pin",
+            "enterPin": "Enter Pin",
+            "changeLanguage": "Change Language",
+            "logout": "Logout",
+            "withdraw": "Withdraw",
+            "loginNoCard": "Login"
+        },
+        "screens": {
+            "checkBalance": "Your Balance is: ",
+            "pleaseInputPin": "Please input your Pin",
+            "atm": "Automatic Teller Machine",
+            "welcome": "Welcome to Alistair Bank",
+            "currentBalance": "Current Balance: £"
+        },
+        "message2": {
+            "debited": "Amount Debited: ",
+            "chooseLanguage": "Choose your language"
+        },
+        "errors": {
+            "invalidWithdraw": "Not enough Money!",
+            "emptyPin": "Pins can't be empty",
+            "matchPin": "Current Pin does not match",
+            "samePin": "New Pin can't be same as old Pin",
+            "blockedInput": "Blocked input, please login without card using your first name"
+        }
+    },
+    "es": {
+        "inputs": {
+            "selectPin": "Ingrese su Pin",
+            "selectedCurrentPin": "Ingrese Pin Actual",
+            "selectedNewPin": "Ingrese Nuevo Pin",
+            "enterAmount": "Ingrese Monto",
+            "loginNoCard": "Ingrese Primer Nombre"
+
+        },
+        "buttons": {
+            "checkBalance": "Chequiar Balance",
+            "withdrawCash": "Retirar Dinero",
+            "changePin": "Cambiar Pin",
+            "enterPin": "Ingresar Pin",
+            "changeLanguage": "Cambiar Lenguaje",
+            "logout": "Salir Sesión",
+            "withdraw": "Retirar",
+            "loginNoCard": "Iniciar Sesión"
+        },
+        "screens": {
+            "checkBalance": "Su Balance es: ",
+            "pleaseInputPin": "Porfavor ingrese su Pin",
+            "atm": "Cajero Automático",
+            "welcome": "Bienvenido al Banco Alistair",
+            "currentBalance": "Balance Actual: £"
+        },
+        "message2": {
+            "debited": "Monto Retirado: ",
+            "chooseLanguage": "Seleccione su lenguaje"
+        },
+        "errors": {
+            "invalidWithdraw": "No tiene suficiente dinero!",
+            "emptyPin": "Pins no pueden estar vacios",
+            "matchPin": "Pins no son iguales",
+            "samePin": "El pin nuevo no puede ser el mismo que el anterior",
+            "blockedInput": "Ingreso Bloqueado, por favor ingrese sin su tarjeta utilizando su primer nombre."
+        }
+    },
+    "jp": {
+        "inputs": {
+            "selectPin": "ピンに入る",
+            "selectedCurrentPin": "現在のピンを入力",
+            "selectedNewPin": "新しいピンを入力",
+            "enterAmount": "金額を入力",
+            "loginNoCard": "入力名"
+        },
+        "buttons": {
+            "checkBalance": "残高照合",
+            "withdrawCash": "キャッシュを撤回する",
+            "changePin": "ピンの変更",
+            "enterPin": "ピンに入る",
+            "changeLanguage": "言語の変更",
+            "logout": "ログアウト",
+            "withdraw": "撤退",
+            "loginNoCard": "ログイン"
+        },
+        "screen": {
+            "checkBalance": "あなたの残高は:",
+            "pleaseInputPin": "ピンを入力してください",
+            "atm": "自動金銭精算機",
+            "welcome": "「Alistair Bankへようこそ」",
+            "currentBalance": "現在の残高:£"
+        },
+        "message2": {
+            "debited": "「借りた金額: 」",
+            "chooseLanguage": "あなたの言語を選択する"
+        },
+        "errors": {
+            "invalidWithdraw": "お金が足りません！",
+            "emptyPin": "ピンは空ではありません",
+            "matchPin": "現在のピンが一致しません",
+            "samePin": "新しいピンは古いピンと同じではありません",
+            "blockedInput": "ブロックされた入力,あなたの名字を使用してカードなしでログインしてください"
+        }
+    }
+}
